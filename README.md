@@ -1,8 +1,8 @@
-# NurviaAgustin_2210010254_UTS_Fiture-Satuan
+# GustiAmandaSielviana_2210010209_UTS_Fiture-Satuan
 
 ## Pembuat
-Nama           : Nurvia Agustin
-NPM            : 2210010254
-Kelas          : 4C Reguler Pagi Banjarbaru
+Nama           : Gusti Amanda Sielviana
+NPM            : 2210010209
+Kelas          : 4M Reguler Pagi Banjarmasin
 Mata Kuliah    : Pemrograman Visual 2
 Dosen Pengampu : Ahmadi S.Kom
